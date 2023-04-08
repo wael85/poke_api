@@ -1,0 +1,9 @@
+.pokemons{
+    display: flex;
+    justify-content: center;
+    width: 70%;
+    margin: auto;
+    border-radius: 2%;
+    align-items: center ;
+    flex-wrap: wrap;
+}
